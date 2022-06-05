@@ -1,6 +1,7 @@
 void main() {
   int duplicateCount(String text) {
     
+    
     var count = 0;
     var listDuplicate = [];
     var contador = 1;
